@@ -18,3 +18,7 @@ Em sistemas de controle de versão, como o Git, um commit adiciona as alteraçõ
 ```bash
 git commit
 ```
+
+### log 
+O comando git log exibe instantâneos que receberam commit. Ele permite que você liste e filtre o histórico do projeto e pesquise alterações específicas. Embora o git status permita que o diretório de trabalho e a área de staging sejam inspecionados, o git log funciona apenas com o histórico que recebeu commit.
+
